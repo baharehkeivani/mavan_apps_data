@@ -2,7 +2,9 @@
   {
     "iconUrl": "https://raw.githubusercontent.com/baharehkeivani/mavan_apps_data/refs/heads/main/icons/jojo.webp",
     "faDisplayName": "جُجِ",
+    "enDisplayName": "Jojo",
     "faDescription": "یک چک لیست ساده و آفلاین برای مدیریت کارهای روزمره",
+    "enDescription": "A simple offline checklist for managing your daily tasks.",
     "cafeBazaarLink": "https://cafebazaar.ir/app/com.example.jojo_checklist",
     "myketLink": "",
     "isActive": true,
@@ -11,7 +13,9 @@
   {
     "iconUrl": "https://raw.githubusercontent.com/baharehkeivani/mavan_apps_data/refs/heads/main/icons/trillion.webp",
     "faDisplayName": "تریلیون",
+    "enDisplayName": "Trillion",
     "faDescription": "تریلیون کمکت میکنه راحت و هوشمندانه پول هاتو مدیریت کنی",
+    "enDescription": "Trillion helps you manage your money easily and intelligently.",
     "cafeBazaarLink": "https://cafebazaar.ir/app/com.mavan.app.trillion",
     "myketLink": "",
     "isActive": true,
@@ -20,7 +24,9 @@
   {
     "iconUrl": "https://raw.githubusercontent.com/baharehkeivani/mavan_apps_data/refs/heads/main/icons/tikimo.png",
     "faDisplayName": "تیکیمو",
+    "enDisplayName": "Tikimo",
     "faDescription": "مدیریت زمان با استفاده از تکنیک تایم باکسینگ",
+    "enDescription": "Time management using the time-boxing technique.",
     "cafeBazaarLink": "https://cafebazaar.ir/app/com.mavan.app.tikimo",
     "myketLink": "",
     "isActive": false,
