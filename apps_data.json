@@ -4,6 +4,7 @@
     "faDisplayName": "جُجِ",
     "faDescription": "یک چک لیست ساده و آفلاین برای مدیریت کارهای روزمره",
     "cafeBazaarLink": "https://cafebazaar.ir/app/com.example.jojo_checklist",
+    "myketLink": "",
     "isActive": true,
     "appKey": "jojo"
   },
@@ -12,6 +13,7 @@
     "faDisplayName": "تریلیون",
     "faDescription": "تریلیون کمکت میکنه راحت و هوشمندانه پول هاتو مدیریت کنی",
     "cafeBazaarLink": "https://cafebazaar.ir/app/com.mavan.app.trillion",
+    "myketLink": "",
     "isActive": true,
     "appKey": "trillion"
   },
@@ -20,6 +22,7 @@
     "faDisplayName": "تیکیمو",
     "faDescription": "مدیریت زمان با استفاده از تکنیک تایم باکسینگ",
     "cafeBazaarLink": "https://cafebazaar.ir/app/com.mavan.app.tikimo",
+    "myketLink": "",
     "isActive": false,
     "appKey": "tikimo"
   }
